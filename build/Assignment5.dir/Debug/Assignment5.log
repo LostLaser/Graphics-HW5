@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\jtgol\desktop\assignment5\src\main.cpp(211): warning C4018: '<': signed/unsigned mismatch
+c:\users\jtgol\desktop\assignment5\src\main.cpp(220): warning C4018: '<': signed/unsigned mismatch
+c:\users\jtgol\desktop\assignment5\src\main.cpp(259): warning C4018: '<': signed/unsigned mismatch
+  Assignment5.vcxproj -> C:\Users\Jtgol\Desktop\assignment5\build\Debug\Assignment5.exe

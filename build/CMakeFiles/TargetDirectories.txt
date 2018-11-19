@@ -1,0 +1,9 @@
+C:/Users/Jtgol/Desktop/assignment5/build/CMakeFiles/Assignment5.dir
+C:/Users/Jtgol/Desktop/assignment5/build/CMakeFiles/INSTALL.dir
+C:/Users/Jtgol/Desktop/assignment5/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jtgol/Desktop/assignment5/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Jtgol/Codes/glfw-3.2.1/debug/CMakeFiles/uninstall.dir
+C:/Users/Jtgol/Codes/glfw-3.2.1/debug/CMakeFiles/INSTALL.dir
+C:/Users/Jtgol/Codes/glfw-3.2.1/debug/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jtgol/Codes/glfw-3.2.1/debug/src/CMakeFiles/glfw.dir
+C:/Users/Jtgol/Codes/glfw-3.2.1/debug/src/CMakeFiles/INSTALL.dir

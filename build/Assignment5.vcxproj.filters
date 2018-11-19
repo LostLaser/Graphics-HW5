@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Jtgol\Desktop\assignment5\src\BMPReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jtgol\Desktop\assignment5\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Jtgol\Desktop\assignment5\src\BMPReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Jtgol\Desktop\assignment5\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Jtgol\Desktop\assignment5\shaders\frag.glsl" />
+    <None Include="C:\Users\Jtgol\Desktop\assignment5\shaders\vert.glsl" />
+    <None Include="..\shaders\Gvert.glsl" />
+    <None Include="..\shaders\Gfrag.glsl" />
+    <None Include="..\shaders\PHvert.glsl" />
+    <None Include="..\shaders\PHfrag.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{BEFF4A9C-B16B-3212-A414-985454FBDEA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5A0C3E32-F56B-3BFA-85C8-327D987D5E97}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
